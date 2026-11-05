@@ -22,9 +22,21 @@ The repository documents the development of the literature review through three 
 
 ## Repository Structure
 
-- `01-literature-scan/` — Literature search and paper selection.
-- `02-initial-paper/` — Initial submission and TA feedback.
-- `03-final-paper/` — Final paper submission.
+repository/
+│
+├── 01-literature-scan/
+│   ├── 01-literature-scan.pdf
+│   └── README.md
+│
+├── 02-initial-paper/
+│   ├── initial-paper-submission.docx
+│   ├── ta-feedback-and-revisions.docx
+│   └── README.md
+│
+├── 03-final-paper/
+│   └── README.md
+│
+└── README.md
 
 ## Research Scope
 
