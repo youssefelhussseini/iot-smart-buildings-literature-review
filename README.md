@@ -18,7 +18,7 @@ The repository documents the development of the literature review through three 
 
 1. **Literature Scan:** Searching for, selecting, and evaluating relevant academic papers.
 2. **Initial Paper:** The first paper submission, including the subsequent TA feedback and revisions.
-3. **Final Paper:** The completed version of the literature review, to be added after final submission.
+3. **Final Paper:** The completed version of the literature review.
 
 ## Repository Structure
 
@@ -39,6 +39,8 @@ repository/
 │   └── README.md
 │
 └── README.md
+```
+
 ## Research Scope
 
 - Real-world applications of IoT in smart buildings.
