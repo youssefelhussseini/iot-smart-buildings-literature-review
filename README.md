@@ -22,6 +22,7 @@ The repository documents the development of the literature review through three 
 
 ## Repository Structure
 
+```text
 repository/
 │
 ├── 01-literature-scan/
@@ -34,10 +35,10 @@ repository/
 │   └── README.md
 │
 ├── 03-final-paper/
+│   ├── final-paper-submission.docx
 │   └── README.md
 │
 └── README.md
-
 ## Research Scope
 
 - Real-world applications of IoT in smart buildings.
