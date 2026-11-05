@@ -1,5 +1,7 @@
 # Literature Scan
 
-This folder contains the literature scan prepared during the Scientific Research course.
+This folder contains the literature search and selection process conducted for the research project.
 
-It documents the search, selection, and evaluation of academic papers relevant to the research question.
+## Contents
+
+- `01-literature-scan.pdf` — Literature scan containing the research question and a selection of relevant academic papers, including their key information, importance, and relevance to the research topic.
