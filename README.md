@@ -26,7 +26,7 @@ The repository documents the development of the literature review through three 
 repository/
 │
 ├── 01-literature-scan/
-│   ├── 01-literature-scan.pdf
+│   ├── literature-scan.pdf
 │   └── README.md
 │
 ├── 02-initial-paper/
